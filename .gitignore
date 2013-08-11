@@ -21,14 +21,16 @@ local.properties
 
 # Android Studio
 .idea/
+build/
 .gradle
 /*/local.properties
 /*/out
-/*/build
-/*/*/build
 /*/*/production
 *.iml
 *.iws
 *.ipr
 *~
 *.swp
+
+# Mac crap
+.DS_Store
