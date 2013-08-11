@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android 4.3 Bug Demo - ClipboardManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">This is a demo app used to reproduce a ClipboardManager bug (Issue 58043) found in stock Android 4.3. To activate the bug, click the button labeled \'Enable\', open another application and copy some text. The expected result is that the current application, not this one, will crash. Uninstall this application AND REBOOT to return your device to normal operation.</string>
+    <string name="button_enable">Enable</string>
+
+</resources>
